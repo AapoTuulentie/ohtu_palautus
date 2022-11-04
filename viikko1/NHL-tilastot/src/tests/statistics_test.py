@@ -37,6 +37,16 @@ class TestStatistics(unittest.TestCase):
         self.assertEqual(player, None)
 
     def test_search_top_points(self):
-        top = self.statistics.top(1, SortBy.POINTS[0].name)
+        top = self.statistics.top(1, SortBy.POINTS)[0].name
 
-        self.assertEqual(top, "Gretzky")    
+        self.assertEqual(top, "Gretzky")
+
+    def test_search_top_goals(self):
+        top = self.statistics.top(1, SortBy.GOALS)[0].name
+
+        self.assertEqual(top, "Lemieux")
+
+    def test_search_top_assists(self):
+        top = self.statistics.top(1, SortBy.ASSISTS)[0].name
+
+        self.assertEqual(top, "Gretzky")
