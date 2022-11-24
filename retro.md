@@ -1,12 +1,12 @@
 ## Retrospektiivisuunnitelmat
 #### Start, Stop, Continue, More of, Less of Wheel
 
-Start, Stop, Continue, More of, Less of Wheel on "pyörä" jonka avulla tiimi antaa palautetta toisilleen. Pyörä koostuu viidestä kategoriasta. Retrospektiivissä tiimiläinen pyörittää pyörää ja vastaa saamansa kategorian mukaan. Kategorioita ovat:
+Start, Stop, Continue, More of, Less of Wheel on "pyörä" jonka avulla tiimi antaa palautetta toisilleen. Pyörä koostuu viidestä kategoriasta. Retrospektiivissä tiimiläinen pyörittää pyörää ja vastaa saamansa kategorian mukaan. Kategorioita ovat:\
 **Start** - Mitä uutta tiimin kannattaa tehdä?\
-**Stop** - Mitä tiimin kannattaa lopettaa?/
-**Continue** - Minkä tekemistä kannattaa jatkaa?
-**More of** - Mitä kannattaa tehdä enemmän?
-**Less of** - Mitä kannattaa tehdä vähemmän?
+**Stop** - Mitä tiimin kannattaa lopettaa?\
+**Continue** - Minkä tekemistä kannattaa jatkaa?\
+**More of** - Mitä kannattaa tehdä enemmän?\
+**Less of** - Mitä kannattaa tehdä vähemmän?\
 Ryhmä keskustelee vastauksista keskenään 10-25 minuuttia. Tarkoituksena on keskustella vapaasti ja saada rakentavia kommenteja ryhmän työskentelyyn liittyen.
 
 #### Glad, Sad, Mad
