@@ -2,8 +2,8 @@
 #### Start, Stop, Continue, More of, Less of Wheel
 
 Start, Stop, Continue, More of, Less of Wheel on "pyörä" jonka avulla tiimi antaa palautetta toisilleen. Pyörä koostuu viidestä kategoriasta. Retrospektiivissä tiimiläinen pyörittää pyörää ja vastaa saamansa kategorian mukaan. Kategorioita ovat:
-**Start** - Mitä uutta tiimin kannattaa tehdä?
-**Stop** - Mitä tiimin kannattaa lopettaa?
+**Start** - Mitä uutta tiimin kannattaa tehdä?/
+**Stop** - Mitä tiimin kannattaa lopettaa?/
 **Continue** - Minkä tekemistä kannattaa jatkaa?
 **More of** - Mitä kannattaa tehdä enemmän?
 **Less of** - Mitä kannattaa tehdä vähemmän?
